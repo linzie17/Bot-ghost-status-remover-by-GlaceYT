@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING",".gg/kokomart"];
+const statusMessages = ["discounted shop"];
 
 
 let currentIndex = 0;
